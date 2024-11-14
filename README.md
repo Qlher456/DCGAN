@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/967b9b4c-5604-4ca5-8997-1166da28204e)# DCGAN
+# DCGAN
 
 这是一个利用DCGAN网络生成人脸面部图像的项目
 python 3.8
